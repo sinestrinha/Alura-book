@@ -1,5 +1,8 @@
+@import url("Styles/header.css");
 :root {
     --cor-de-fundo: rgb(200, 162, 235);
+    --roxinho: rgb(217, 180, 241);
+
 
 }
 
@@ -7,8 +10,3 @@ body {
     background-color: var(--cor-de-fundo);
 }
 
-h1 {
-    background-color: white;
-    
-
-}
